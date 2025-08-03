@@ -128,6 +128,7 @@ export const WalletScreen = () => {
         </TouchableOpacity>
       </ThemedView>
 
+
       <ThemedView style={styles.section}>
         <ThemedText type="subtitle">My Cards ({walletCards.length})</ThemedText>
 
